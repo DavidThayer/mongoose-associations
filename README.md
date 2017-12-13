@@ -167,7 +167,7 @@ Here's how we'd take our models for a spin and make two objects to test out crea
 /* make a new Ingredient document */
 var cheddar = new db.Ingredient ({
  title: 'cheddar cheese',
- origin: 'Wisconson'
+ origin: 'Wisconsin'
 });
 ```
 
