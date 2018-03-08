@@ -188,7 +188,7 @@ cheddar.save(function(err, savedCheese) {
   if (err) {
     return console.log(err);
   } else {
-    console.log('cheesy quiche saved successfully');
+    console.log('cheddar saved successfully');
   }
 });
 
